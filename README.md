@@ -1,5 +1,5 @@
 <h2>👋 Bienvenidos, mi nombre es Valeria! </h2>
-<h3>:woman_student: Soy Licenciada en Tecnologías de la Información | Data Analyst :: Data Scientist en formación :unicorn:</h3>
+<h3>:woman_student: Soy Licenciada en Tecnologías de la Información | Power BI Developer :: Data Analyst :: Data Scientist en formación :unicorn:</h3>
 
 :woman_technologist: Me considero una amante de la tecnología y entusiasta del mundo de los datos. De mente inquieta, detallista y super curiosa me motiva afrontar nuevos desafíos y buscar oportunidades. Siempre me ha gustado indagar en distintos sets de datos en busca de entender los mismos, analizarlos, transformarlos y poder contar historias desde distintas perspectivas con el objetivo de contribuir en la toma de mejores decisiones que generen valor a una organización. El poder convertir la información en conocimiento permite potenciar las oportunidades en un negocio o en distintos proyectos de índole social. 
 
